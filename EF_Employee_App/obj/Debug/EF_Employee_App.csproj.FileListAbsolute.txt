@@ -1,0 +1,15 @@
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EF_Employee_App.exe.config
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EF_Employee_App.exe
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EF_Employee_App.pdb
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EntityFramework.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EntityFramework.xml
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.Form1.resources
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.Properties.Resources.resources
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.csproj.GenerateResource.cache
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.csproj.CoreCompileInputs.cache
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.csproj.CopyComplete
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.exe
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.pdb
+C:\Easy C# by Windows Forms Practical Projects Beginners to Pro\EF_Employee_App_sn\EF_Employee_App\obj\Debug\EF_Employee_App.csproj.AssemblyReference.cache
